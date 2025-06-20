@@ -1,1 +1,2 @@
 # EDA-on-Retail-Data-
+This Jupyter Notebook performs data analysis on a retail dataset. It involves importing essential Python libraries like pandas, seaborn, and matplotlib for data manipulation and visualization. The dataset includes sales transactions with fields such as Invoice, StockCode, Description, Quantity, and more. The notebook likely explores patterns in product sales, visual trends, and possibly customer behavior based on the data.
